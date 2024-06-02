@@ -1,4 +1,4 @@
-** Here is the background information on this task 
+## Here is the background information on this task 
 
 Deloitte have signed a new account - **Daikibo Industrials**, a global leader in the manufacturing of heavy machinery, founded and headquartered in Tokyo, Japan. They needed assistance with a variety of problems and were impressed to find out Deloitte could help in all verticals.
 
